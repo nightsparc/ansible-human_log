@@ -26,3 +26,4 @@ or define environment variable `ANSIBLE_STDOUT_CALLBACK = debug'
 
 Inspired from: https://github.com/redhat-openstack/khaleesi/blob/master/plugins/callbacks/human_log.py
 Original from: https://gist.github.com/cliffano/9868180
+See also: http://blog.cliffano.com/2014/04/06/human-readable-ansible-playbook-log-output-using-callback-plugin/
